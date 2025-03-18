@@ -32,7 +32,7 @@
 - [Poster](#poster)
 - [Đóng góp](#dong-gop)
 
-## 🌟GIới thiệu
+## 🌟Giới thiệu
 
 Mục tiêu của dự án này là phát triển một hệ thống phát hiện bạo lực thời gian thực bằng mô hình CNN 3D. Mô hình xử lý các khung hình video và dự đoán liệu video có chứa các hoạt động bạo lực hay không.
 
